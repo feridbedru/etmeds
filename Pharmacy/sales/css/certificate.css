@@ -1,0 +1,15 @@
+@media print{
+    @page {
+        size: A4 landscape; 
+    }
+}
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+#intro{
+    text-align: center;
+    background-color:#0a6fb7;
+    color:rgb(255,255,255); 
+}
+

@@ -1,0 +1,39 @@
+nav{
+    display: none;
+}
+footer{
+    display: none;
+}
+.breadcrumb{
+    display: none;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.hid{
+    display: none;
+}
+.clearfix{
+    clear: both;
+}
+h3{
+    font-size: 1em;
+    font-weight: 400;
+}
+.mx-auto{
+    margin: auto;
+}
+.d-block{
+    display: block;
+}
+.placeholder{
+    width: 40%;
+    height: 200px;
+    border: 5px solid black;
+  }
+.text-center{
+    text-align: center;
+}

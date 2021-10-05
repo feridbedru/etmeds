@@ -1,0 +1,37 @@
+@media print{
+    @page {
+        size: A4 landscape;
+    }
+}
+html{
+    width: 100%;
+    background-color: aliceblue;
+    padding: 0%;
+}
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+#intro{
+    text-align: center;
+    background-color:#0a6fb7;
+    color:rgb(255,255,255);
+    padding: 35px;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.text-center{
+    text-align: center;
+}
+#certificateNumber{
+    margin-top: 20px;
+}
+#foot{
+    text-align: center;
+    background-color:#0a6fb7;
+    color:rgb(255,255,255);
+    padding: 15px;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
